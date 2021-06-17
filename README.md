@@ -46,6 +46,7 @@ Antes de começar é necessário ter o Node.js e Git instalado para conseguir ro
   - Entrar na pasta: `cd backend`;
   - Instalar as Dependências: `yarn` ou `npm install`;
   - Rodar as migrations: `yarn knex:migrate` ou `npx knex:migrate`;
+  - Rodar as migrations: `yarn knex:seed` ou `npx knex:seed`;
   - Rodar o projeto: `yarn dev` ou `npm run dev`;
 - 4 - Rode o front-end da Aplicação
   - Entrar na pasta: `cd frontend`;
