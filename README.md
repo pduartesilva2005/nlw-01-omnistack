@@ -40,8 +40,8 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 
 Antes de começar é necessário ter o Node.js e Git instalado para conseguir rodar este projeto.
 
-- 1 - Clone esse repositório: `git clone https://github.com/pedroduarte2005/nlw1-omnistack.git`;
-- 2 - Entre na pasta do projeto: `cd nlw1-omnistack`;
+- 1 - Clone esse repositório: `git clone https://github.com/pedroduarte2005/nlw-01-omnistack.git`;
+- 2 - Entre na pasta do projeto: `cd nlw-01-omnistack`;
 - 3 - Rode o back-end da aplicação
   - Entrar na pasta: `cd backend`;
   - Instalar as Dependências: `yarn` ou `npm install`;
